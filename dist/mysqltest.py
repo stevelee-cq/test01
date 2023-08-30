@@ -11,7 +11,7 @@ conn = Connection(
     user="root",
     password="@Zz004662",  # 密码
 )
-
+#测试是否监测到更改
 cursor = conn.cursor()
 conn.select_db("sys")
 try:
