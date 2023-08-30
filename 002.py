@@ -6,7 +6,7 @@ conn = Connection(
     user="root",
     password="@Zz004662",  # 密码
 )
-#sql="drop table count "
+#sql="drop table count "ok
 #sql = "ALTER TABLE shouru MODIFY id INT AUTO_INCREMENT"
 #sql = "create table count (data varchar(18),num float)
 #sql = "ALTER TABLE my_table MODIFY column_name INT AUTO_INCREMENT PRIMARY KEY"
